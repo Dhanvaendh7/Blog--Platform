@@ -1,5 +1,5 @@
 // ===== Configuration =====
-const API_URL = 'https://blog-platform-h2uy.onrender.com';
+const API_URL = 'https://blog-platform-h2uy.onrender.com/api';
 
 // ===== State =====
 let currentUser = null;
