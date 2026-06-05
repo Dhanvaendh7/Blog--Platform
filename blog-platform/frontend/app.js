@@ -1,5 +1,5 @@
 // ===== Configuration =====
-const API_URL = 'http://localhost:5000/api';
+const API_URL = 'https://blog-platform-h2uy.onrender.com';
 
 // ===== State =====
 let currentUser = null;
